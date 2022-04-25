@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lekeolamiju15
 - 👀 I’m interested in learning and collaborating on data analytics and r programming
-- 🌱 I’m currently learning SQL AND DATA ANALYTICS
+- 🌱 I’m currently learning R,SQL AND DATA ANALYTICS
 - 💞️ I’m looking to collaborate on R projects
 - 📫 How to reach me https://www.linkedin.com/in/lekeolamiju
 
